@@ -1,2 +1,2 @@
 # HigherLowerDice
-Project 1
+Sample Project, Javascript Intro
